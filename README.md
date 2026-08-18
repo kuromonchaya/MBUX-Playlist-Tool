@@ -1,4 +1,4 @@
-MBUX Folder Playlists
+MBUX Folder Playlists (日本語は後半に)
 
 This is a Windows tool that automatically converts music folders on a USB flash drive into .m3u playlists that can be selected in Mercedes-Benz MBUX.
 
@@ -96,7 +96,7 @@ LICENSE
 
 MIT License
 
-=================================================================================================
+========================================================================================
 
 USBメモリ内の音楽フォルダーを、Mercedes-Benz MBUXで選べる .m3u プレイリストへ自動変換するWindows用ツールです。
 
